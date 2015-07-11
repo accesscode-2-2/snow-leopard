@@ -9,6 +9,9 @@
 - Charles H Kang
 'q'
 
+OKAY!
+
+
 Weekly Pod Meeting Template
 Date: June 6th, 2015
 Attendants: Dison, Madelyn, Abass, Rosemary, Pooja
@@ -49,3 +52,5 @@ Next Week's pod goals:
 [UPDATE THIS] -
 [UPDATE THIS] -
 [UPDATE THIS] -
+
+
