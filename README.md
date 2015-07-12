@@ -1,11 +1,11 @@
 # Snow Leopard
 
 **Contributors:**
-- Derek Netto
+- Derek Netto 
 - Ayuna Vogel 
-- Justine Gartner
-- Umar Mahmud
-- Zoufishan Mehdi
+- Justine Gartner 
+- Umar Mahmud 
+- Zoufishan Mehdi 
 - Charles H Kang
 
 
