@@ -9,7 +9,7 @@
 - Charles H Kang
 
 
-
+Whos the leader for this week again???/
 1. Did you meet your weekly goals?
 
 
