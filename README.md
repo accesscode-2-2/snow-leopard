@@ -8,7 +8,7 @@
 - Zoufishan Mehdi 
 - Charles H Kang
 
-This week's "leader" : Charles 
+This week's leader: Charles 
 
 
 1. Did you meet your weekly goals?
