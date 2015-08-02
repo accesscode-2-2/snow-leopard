@@ -31,6 +31,6 @@
 
 ### Derek
 
-* GOAL: Make changes to game using Swift, release v2. Spend more time with family 
+* GOAL: Make changes to game using Swift, release v2.
 
 
