@@ -23,7 +23,7 @@ Come to class on time. Tracking assignments:
 
 
 # Individual Goals
-Justine
+**Justine**
 GOAL: Meditate everyday.
 
 Charles
