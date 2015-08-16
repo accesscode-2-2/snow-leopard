@@ -29,7 +29,7 @@ GOAL: Meditate everyday.
 **Charles**
 GOAL: Work on headspace.
 
-**Umar**  
+**Umar**
 GOAL: Work on problems from the exercises given on Sun Aug 16.
 
 **Ayuna**
