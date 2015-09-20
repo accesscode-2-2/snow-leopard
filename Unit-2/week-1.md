@@ -11,9 +11,8 @@ Track hours worked on work outside of class
 # Individual Goals
 **Justine**
 GOAL: 
-Improve typing skills.
-Work through Big Nerd Ranch iOS programming exercises.
-Refactor & improve previous projects.
+Do a chapter in the bignerdranch iOS!
+Continue touch typing practice 
 
 **Charles**
 GOAL: 
