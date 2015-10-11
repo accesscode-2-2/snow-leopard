@@ -29,7 +29,7 @@ GOAL: Work on a website, add tabs to it.
 
 GOAL: Work on unit-2 final project.
 
-*Last week goal*: Go over core data. STATUS: achieved.   
+*Last week goal*: Go over core data.   
 
 **Ayuna**
 
