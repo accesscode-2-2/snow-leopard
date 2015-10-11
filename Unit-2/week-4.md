@@ -5,26 +5,43 @@ Weekly Group Leader: Ayuna
 # #teamsnowleopard weekly goals:
 
 # Group Goals
-Track study hours. 
+THIS WEEK GOAL: Track study hours. 
+
+LAST WEEK GOAL: Track hours studied. STATUS: Charles - yes (21 hrs); Zouf - in progress, downloaded an app to track it; Ayuna - yes (10 hrs); Justine - yes (21.06 hrs); Umar - no; Derek - no. 
 
 # Individual Goals
 **Justine**
+
 GOAL: Review for assessment.
+
+LAST WEEK GOAL: Continue touch-typing and Ray Wenderlich Core Data Tutorial. STATUS: touch-typing achieved, substituted Parse tutorial for Core Data tutorial. 
 
 **Charles**
 
 GOAL: Work on a website, add tabs to it.
 
-Last week goal: achieved. Worked on a side project (website) and Core Data.  
+LAST WEEK GOAL: achieved. Worked on a side project (website) and Core Data.  
 
 **Umar**
+
 GOAL: Work on unit-2 final project.
 
+LAST WEEK GOAL: Go over core data. STATUS: achieved.   
+
 **Ayuna**
+
 GOAL: Write a blog post about the hackathon; finish the final project, learn from it; work on a side project.
 
+LAST WEEK GOAL: was absent. STATUS: -   
+
 **Zoufishan**
+
 GOAL: Work on final project.  
 
+LAST WEEK GOAL: Continue learning Swift. STATUS: went through some documentation.   
+
 **Derek**
+
 GOAL: Do Ray Wenderlich tutorial.  
+
+LAST WEEK GOAL: Do Ray Wenderlich tutorial. STATUS: in progress, doing it.   
