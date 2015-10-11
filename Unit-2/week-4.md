@@ -12,7 +12,10 @@ Track study hours.
 GOAL: Review for assessment.
 
 **Charles**
+
 GOAL: Work on a website, add tabs to it.
+
+Last week goal: achieved. Worked on a side project (website) and Core Data.  
 
 **Umar**
 GOAL: Work on unit-2 final project.
