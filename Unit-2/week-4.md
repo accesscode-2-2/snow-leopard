@@ -4,6 +4,9 @@ Weekly Group Leader: Ayuna
 
 # #teamsnowleopard weekly goals:
 
+# Resources: 
+https://github.com/John-Lluch/SWRevealViewController (Derek)
+
 # Group Goals
 THIS WEEK GOAL: Track study hours. 
 
