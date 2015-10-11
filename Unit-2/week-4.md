@@ -7,7 +7,7 @@ Weekly Group Leader: Ayuna
 # Group Goals
 THIS WEEK GOAL: Track study hours. 
 
-Last week goal: Track hours studied. STATUS: Charles - yes (21 hrs); Zouf - in progress, downloaded an app to track it; Ayuna - yes (10 hrs); Justine - yes (21.06 hrs); Umar - no; Derek - no. 
+Last Week Goal: Track hours studied. STATUS: Charles - yes (21 hrs); Zouf - in progress, downloaded an app to track it; Ayuna - yes (10 hrs); Justine - yes (21.06 hrs); Umar - no; Derek - no. 
 
 # Individual Goals
 **Justine**
