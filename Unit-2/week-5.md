@@ -26,7 +26,7 @@ GOAL: Finish the project with flying colors!
 
 **Umar**
 
-GOAL: Absent.
+GOAL: Project.
 
 *Last week goal*: Work on unit-2 final project.   
 
