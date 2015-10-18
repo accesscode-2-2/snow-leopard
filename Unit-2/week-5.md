@@ -28,7 +28,7 @@ GOAL: Finish the project with flying colors!
 
 GOAL: Absent.
 
-*Last week goal*: Absent.   
+*Last week goal*: Work on unit-2 final project.   
 
 **Ayuna**
 
